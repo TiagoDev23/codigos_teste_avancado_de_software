@@ -25,10 +25,9 @@ Com JDK 17 ou superior e Maven no PATH, execute dentro de `biblioteca-bdd`:
 mvn test
 ```
 
-O projeto está na etapa vermelha da demonstração: `Livro.emprestar()` ainda
-retorna `false`. O cenário deve ser encontrado e falhar no passo
-“Então o empréstimo deve ser aceito”, com `expected: <true> but was: <false>`.
-Essa falha é intencional; o próximo passo do exercício é implementar o empréstimo.
+Os cenários verificam o empréstimo de um exemplar disponível e a recusa de
+um novo empréstimo do mesmo exemplar. A implementação atual de
+`Livro.emprestar()` atende aos dois cenários.
 
 O relatório HTML é gerado em `target/relatorio-cucumber.html`. Os resultados
 do Maven ficam em `target/surefire-reports/`. A pasta `target` contém arquivos
