@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblioteca Mobile</string>
+    <string name="titulo_reserva">Reserva de livros</string>
+    <string name="orientacao">Informe uma quantidade de 1 a 5 livros.</string>
+    <string name="rotulo_quantidade">Quantidade de livros</string>
+    <string name="exemplo_quantidade">Ex.: 3</string>
+    <string name="validar_solicitacao">Validar solicitação</string>
+    <string name="informe_quantidade">Informe a quantidade.</string>
+    <string name="quantidade_fora_do_intervalo">A quantidade deve ser de 1 a 5.</string>
+    <string name="solicitacao_valida">Solicitação válida.</string>
+    <string name="digite_numero_inteiro">Digite um número inteiro.</string>
+</resources>

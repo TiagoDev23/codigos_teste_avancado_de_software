@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaria">#245947</color>
+    <color name="fundo">#FAFAF7</color>
+    <color name="fundo_mensagem">#E9F1EC</color>
+    <color name="texto">#18251F</color>
+    <color name="texto_secundario">#546159</color>
+    <color name="branco">#FFFFFF</color>
+</resources>

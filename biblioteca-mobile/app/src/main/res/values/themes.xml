@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BibliotecaMobile" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/primaria</item>
+        <item name="android:windowBackground">@color/fundo</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Android 6/7 usam ícones claros na barra de navegação. -->
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

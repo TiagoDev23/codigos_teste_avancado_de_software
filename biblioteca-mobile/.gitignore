@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+local.properties
+build/
+app/build/
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+
+# O Wrapper faz parte do projeto, inclusive seu JAR oficial.
+!gradle/wrapper/gradle-wrapper.jar
